@@ -1,4 +1,7 @@
-# CookbookClient
+# Cookbook-Client
+
+This project is the web client for a larger, mutli-module project which incorporates 
+this client, a Spring server, and possibly other future modules.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
